@@ -1,0 +1,69 @@
+Câu 1: Thành phần nào sau đây KHÔNG phải là một thành phần giao diện người dùng (UI) trong Android?
+A. TextView
+B. Button
+C. Service
+D. ImageView
+Đáp án: C
+
+Câu 2: Layout nào thường được sử dụng để sắp xếp các thành phần UI theo chiều dọc hoặc chiều ngang?
+A. RelativeLayout
+B. LinearLayout
+C. FrameLayout
+D. ConstraintLayout
+Đáp án: B
+
+Câu 3: Intent trong Android được sử dụng để làm gì?
+A. Hiển thị thông báo cho người dùng.
+B. Lưu trữ dữ liệu.
+C. Khởi chạy Activity.
+D. Xử lý sự kiện chạm.
+Đáp án: C
+
+Câu 4: Vòng đời của một Activity bắt đầu bằng phương thức nào?
+A. onStart()
+B. onResume()
+C. onCreate()
+D. onPause()
+Đáp án: C
+
+Câu 5: Dịch vụ nào trong Android cho phép thực thi các tác vụ trong nền?
+A. Broadcast Receiver
+B. Content Provider
+C. Service
+D. Activity
+Đáp án: C
+
+Câu 6: Thư viện nào được sử dụng để xây dựng giao diện người dùng hiện đại trong Android?
+A. Jetpack Compose
+B. Volley
+C. OkHttp
+D. Picasso
+Đáp án: A
+
+Câu 7: Thành phần nào lưu trữ dữ liệu trong ứng dụng Android?
+A. SharedPreferences
+B. Intent
+C. Activity
+D. Fragment
+Đáp án: A
+
+Câu 8: Lớp nào được sử dụng để kết nối với cơ sở dữ liệu SQLite trong Android?
+A. DatabaseHelper
+B. SQLiteOpenHelper
+C. SQLManager
+D. SQLiteManager
+Đáp án: B
+
+Câu 9: Trong Android, chế độ nào cho phép thiết bị tiết kiệm pin bằng cách giảm hoạt động nền?
+A. Power Saving Mode
+B. Battery Saver
+C. Doze Mode
+D. Sleep Mode
+Đáp án: C
+
+Câu 10: Phương thức nào được gọi khi Activity bị phá hủy?
+A. onStop()
+B. onDestroy()
+C. onPause()
+D. onRestart()
+Đáp án: B
